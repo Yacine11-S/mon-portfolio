@@ -28,6 +28,7 @@ Ce site est automatiquement déployé sur GitHub Pages à chaque push sur la bra
 Contact
 Email : Sambyacine2005@gmail.com
 GitHub : @Yacine11-S
+Mon portfolio : https://yacine11-s.github.io/mon-portfolio/
 
 N’hésitez pas à me contacter pour toute question ou opportunité !
 
