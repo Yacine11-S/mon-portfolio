@@ -31,6 +31,3 @@ GitHub : @Yacine11-S
 
 N’hésitez pas à me contacter pour toute question ou opportunité !
 
-Email : Sambyacine2005@gmail.com
-
-GitHub : @Yacine11-S
